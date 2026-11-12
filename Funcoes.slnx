@@ -1,3 +1,8 @@
 <Solution>
+  <Project Path="Exercicio1/Exercicio1.csproj" Id="127bc134-edef-4c68-a736-ab433916fa05" />
+  <Project Path="Exercicio2/Exercicio2.csproj" Id="aa583e95-2e4f-44a6-afca-bead169d1cff" />
+  <Project Path="Exercicio3/Exercicio3.csproj" Id="2c712822-fd48-4de2-b418-47d1cb225145" />
+  <Project Path="Exercicio4/Exercicio4.csproj" Id="e31fa0d4-bda8-466e-9ada-47953ad7f61a" />
   <Project Path="Funcoes/Funcoes.csproj" />
+  <Project Path="Vetores/Vetores.csproj" Id="1c49b3c9-9656-4052-ab01-f60ec65b8180" />
 </Solution>
